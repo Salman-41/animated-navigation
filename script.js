@@ -9,6 +9,17 @@ const nav5 = document.getElementById("nav-5");
 function toggleNav() {
   // toggle: menu Bars Open/Closed
   menuBars.classList.toggle("change");
+  //   toggle: menu Active
+  overlay.classList.toggle("overlay-active");
+  if (overlay.classList.contains("overlay-active")) {
+    // Animate In - Overlay
+    overlay.classList.remove("overlay-slide-left");
+    overlay.classList.add("overlay-slide-right");
+  } else {
+    //Animate Out - Overlay
+    overlay.classList.remove("overlay-slide-right");
+    overlay.classList.add("overlay-slide-left");
+  }
 }
 
 // Event Listeners

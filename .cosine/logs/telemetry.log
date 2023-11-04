@@ -38,3 +38,18 @@ INFO [2023-11-04T03:13:04.243Z]: Creating source
 INFO [2023-11-04T03:13:04.243Z]: Initializing workspace controller
 INFO [2023-11-04T03:13:04.335Z]: opened
 INFO [2023-11-04T03:13:04.335Z]: {}
+INFO [2023-11-04T15:07:35.666Z]: Split failed to initialize
+ERROR [2023-11-04T15:07:35.689Z]: Split initialisation timed out in 12000ms.
+INFO [2023-11-04T15:07:35.690Z]: Tracking open event
+INFO [2023-11-04T15:07:35.693Z]: Creating language service
+INFO [2023-11-04T15:07:35.694Z]: Creating settings service
+INFO [2023-11-04T15:07:35.694Z]: Creating workspace service
+INFO [2023-11-04T15:07:35.695Z]: Creating remote AI
+INFO [2023-11-04T15:07:35.695Z]: Creating feedback service
+INFO [2023-11-04T15:07:35.695Z]: Creating share service
+INFO [2023-11-04T15:07:35.695Z]: Creating workspace controller
+INFO [2023-11-04T15:07:35.695Z]: Enabling workspace listeners
+INFO [2023-11-04T15:07:35.696Z]: Creating source
+INFO [2023-11-04T15:07:35.696Z]: Initializing workspace controller
+INFO [2023-11-04T15:07:35.700Z]: opened
+INFO [2023-11-04T15:07:35.700Z]: {}

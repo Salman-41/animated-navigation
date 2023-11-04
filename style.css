@@ -135,7 +135,7 @@ nav li:nth-of-type(2) {
 }
 
 /* Slide Out animation with delay for each nav item */
-.slide-in-1 {
+.slide-out-1 {
   animation: slide-out 0.3s linear 0.5s both;
 }
 
